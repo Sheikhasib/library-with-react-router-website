@@ -1,0 +1,10 @@
+.img-container{
+    height: 100%;
+    width: 100%;
+}
+
+.dataStyle{
+    border: 3px solid goldenrod;
+    padding: 10px;
+    border-radius: 10px;
+}

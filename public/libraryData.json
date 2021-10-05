@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "bookName": "In Search of Lost Time",
+      "author": "Marcel Proust",
+      "price": "$100",
+      "img": "https://d3i5mgdwi2ze58.cloudfront.net/mnvwp5wfbhobunqz0zvbugosf892",
+      "soldCopy": "10 Million"
+    },
+    {
+      "id": 2,
+      "bookName": "Ulysses",
+      "author": "James Joyce",
+      "price": "$90",
+      "img": "https://d3i5mgdwi2ze58.cloudfront.net/f7nkbyqfsnrrlct3hs01jkrz2vdi",
+      "soldCopy": "8 Million"
+    },
+    {
+      "id": 3,
+      "bookName": "Don Quixote",
+      "author": " Miguel de Cervantes",
+      "price": "$75",
+      "img": "https://d3i5mgdwi2ze58.cloudfront.net/kedoaww5u33ka020nxmaxqscpgiz",
+      "soldCopy": "6 Million"
+    },
+    {
+      "id": 4,
+      "bookName": "One Hundred Years of Solitude ",
+      "author": "Gabriel Garcia Marquez",
+      "price": "$78",
+      "img": "https://d3i5mgdwi2ze58.cloudfront.net/j7koelfcv0va5zky4x1ccmpsgcsb",
+      "soldCopy": "9 Million"
+    },
+    {
+      "id": 5,
+      "bookName": "The Great Gatsby ",
+      "author": "F. Scott Fitzgerald",
+      "price": "$85",
+      "img": "https://d3i5mgdwi2ze58.cloudfront.net/m8sdet02cc7mdl8l6jow8cpl7co2",
+      "soldCopy": "7.5Million"
+    },
+    {
+      "id": 6,
+      "bookName": "Moby Dick",
+      "author": "Herman Melville",
+      "price": "$88",
+      "img": "https://d3i5mgdwi2ze58.cloudfront.net/epke1jolmtb858vv9ctbtxpa8yi6",
+      "soldCopy": "11Million"
+    },
+    {
+      "id": 7,
+      "bookName": "War and Peace",
+      "author": "Leo Tolstoy",
+      "price": "$100",
+      "img": "https://d3i5mgdwi2ze58.cloudfront.net/hwi2qqngyicqz7s7ps4x4k1ei14k",
+      "soldCopy": "50Million"
+    },
+    {
+      "id": 8,
+      "bookName": "Hamlet",
+      "author": "William Shakespeare",
+      "price": "$95",
+      "img": "https://d3i5mgdwi2ze58.cloudfront.net/y6mquapl0mzayi0kykdf860zl5ut",
+      "soldCopy": "70Million"
+    },
+    {
+      "id": 9,
+      "bookName": "The Odyssey",
+      "author": "Homer",
+      "price": "$67",
+      "img": "https://d3i5mgdwi2ze58.cloudfront.net/jyx2n4emuiwjjfu682ylkh10xyoj",
+      "soldCopy": "30Million"
+    }
+  ]

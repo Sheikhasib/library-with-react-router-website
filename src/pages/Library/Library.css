@@ -1,0 +1,7 @@
+.library container{
+    text-align: center;
+    min-height: 100%;
+    min-width: 100%;
+    background-position: center;
+    /* background-image: url(''); */
+}

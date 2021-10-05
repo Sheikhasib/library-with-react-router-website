@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+# Facile Library
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Facile Library](https://my-facile-library.netlify.app/).
+
+Advantages og this website:
+
+        i.We all should know that "Knowledge is power".That power we could earn and lear by ourselves.
+
+        ii.This library must enriched our self to higher level.To gather knowledge we could heal our soul and society.
+
+        iii.This was started thousands of years ago.We must continue this culture of knowledge.And here is the beginning of ours.To modernize the ancient value of knowledge.  
 
 ## Available Scripts
 

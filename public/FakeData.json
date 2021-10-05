@@ -1,0 +1,34 @@
+[
+    {
+      "id": 1,
+      "bookName": "In Search of Lost Time",
+      "author": "Marcel Proust",
+      "price": "$100",
+      "img": "https://d3i5mgdwi2ze58.cloudfront.net/mnvwp5wfbhobunqz0zvbugosf892",
+      "soldCopy": "10 Million"
+    },
+    {
+      "id": 2,
+      "bookName": "Ulysses",
+      "author": "James Joyce",
+      "price": "$90",
+      "img": "https://d3i5mgdwi2ze58.cloudfront.net/f7nkbyqfsnrrlct3hs01jkrz2vdi",
+      "soldCopy": "8 Million"
+    },
+    {
+      "id": 3,
+      "bookName": "Don Quixote",
+      "author": " Miguel de Cervantes",
+      "price": "$75",
+      "img": "https://d3i5mgdwi2ze58.cloudfront.net/kedoaww5u33ka020nxmaxqscpgiz",
+      "soldCopy": "6 Million"
+    },
+    {
+      "id": 4,
+      "bookName": "One Hundred Years of Solitude ",
+      "author": "Gabriel Garcia Marquez",
+      "price": "$78",
+      "img": "https://d3i5mgdwi2ze58.cloudfront.net/j7koelfcv0va5zky4x1ccmpsgcsb",
+      "soldCopy": "9 Million"
+    }
+]

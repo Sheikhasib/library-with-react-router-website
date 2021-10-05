@@ -1,0 +1,19 @@
+.data-container{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 10px;
+}
+
+.description{
+    text-align: center;
+    color: white;
+    font-weight: 400;
+}
+
+.logo{
+    text-align: center;
+    min-height: 100%;
+    min-width: 100%;
+    background-position: center;
+    background-image: url('https://s1.best-wallpaper.net/wallpaper/m/1805/Magic-ball-library-books_m.webp');
+}

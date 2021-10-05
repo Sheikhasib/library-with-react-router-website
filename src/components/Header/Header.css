@@ -1,0 +1,15 @@
+.header-container{
+    text-align: center;
+    line-height: 30px;
+    background: #01eeff52;
+    margin: 40px;
+    border-radius: 20px;
+}
+
+.nav-item {
+  text-decoration: none;
+  font-weight: bold;
+  font-size: larger;
+  margin: 10px;
+  padding: 10px;
+}
